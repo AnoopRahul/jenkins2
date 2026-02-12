@@ -1,0 +1,2 @@
+Hello from GitHub
+This file is used for Jenkins Git integration
